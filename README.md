@@ -1,1 +1,1 @@
-#here are some script to generate for mybatis persit layer.
+#here are some script to generate code for mybatis persit layer.
